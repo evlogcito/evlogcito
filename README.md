@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🔧 EVLOGCITO
 
-<!--
-**evlogcito/evlogcito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MAKER • DIY • ELECTRÓNICA • MECÁNICA • ARGENTINA 🇦🇷
 
-Here are some ideas to get you started:
+¡Bienvenido a EVLOGCITO!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Un espacio dedicado a experimentar, construir, reparar y recuperar cosas.
+
+Acá comparto los archivos y recursos utilizados en los proyectos que muestro en mi canal de YouTube.
+
+### 🛠️ ¿Qué vas a encontrar?
+
+- ⚡ Electrónica y circuitos.
+- 💻 Programación y microcontroladores.
+- 🔩 Mecánica y restauración.
+- 🔧 Proyectos DIY y fabricación.
+- 📐 Esquemas, diagramas, planos y documentación.
+
+### 📂 RECURSOS
+
+Repositorio de archivos descargables de los proyectos del canal.
+
+**[Explorar repositorios y proyectos](https://github.com/evlogcito)**
+
+### 📺 SEGUIME EN YOUTUBE
+
+[EVLOGCITO – Vlogcito Electrónico](https://youtube.com/@evlogcito)
+
+Maker • DIY • Argentina
+
+**Rescatar cosas muertas también es una forma de crear.**
