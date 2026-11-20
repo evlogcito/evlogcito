@@ -4,7 +4,7 @@
 
 ¡Bienvenido a EVLOGCITO!
 
-Un espacio dedicado a experimentar, construir, reparar y recuperar cosas.
+Un espacio dedicado a experimentar, construir, restaurar, reparar y recuperar cosas.
 
 Acá comparto los archivos y recursos utilizados en los proyectos que muestro en mi canal de YouTube.
 
@@ -27,5 +27,3 @@ Repositorio de archivos descargables de los proyectos del canal.
 [EVLOGCITO – Vlogcito Electrónico](https://youtube.com/@evlogcito)
 
 Maker • DIY • Argentina
-
-**Rescatar cosas muertas también es una forma de crear.**
