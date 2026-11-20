@@ -16,12 +16,6 @@ Acá comparto los archivos y recursos utilizados en los proyectos que muestro en
 - 🔧 Proyectos DIY y fabricación.
 - 📐 Esquemas, diagramas, planos y documentación.
 
-### 📂 RECURSOS
-
-Repositorio de archivos descargables de los proyectos del canal.
-
-**[Explorar repositorios y proyectos](https://github.com/evlogcito)**
-
 ### 📺 SEGUIME EN YOUTUBE
 
 [EVLOGCITO – Vlogcito Electrónico](https://youtube.com/@evlogcito)
